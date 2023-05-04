@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/rota/Desktop/Nano Diffrential /Arduino Nano Diffrential impdance.kicad_sch</source>
+    <date>2023 May 04, Thursday 14:31:55</date>
+    <tool>Eeschema (6.0.11-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Arduino Nano Diffrential impdance.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c725c38c-7532-4fc8-8e71-10df17f1d80c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cf664ca-58d5-4015-a2bc-0ecbd671cea4</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f762cc21-b3ab-4ee9-a710-935ccc23aa0f</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca13e525-f471-4f56-b296-d3a9b37c0daa</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53b65c0d-be49-4057-8d48-98282a84099f</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>4.7Uf</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c59e243-d23e-4f89-829f-4ffd4bfce6fd</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e1e1d05-3e16-420d-b360-58db7aec10a6</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0581da6-4791-4f09-830e-563d933be1f3</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>851d6ffb-0633-4ebd-9be0-d0b5cb75faca</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>DIODE</value>
+      <footprint>SS3P3HM3_85A:DIO_SS3P3HM3_85A</footprint>
+      <libsource lib="pspice" part="DIODE" description="Diode symbol for simulation only. Pin order incompatible with official kicad footprints"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ff05cf4-66d4-460b-9131-cf810e51e7da</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>Fuse:Fuse_1812_4532Metric</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31872fd8-e8ab-4667-9781-81ae5e6a05c2</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>CONN_15</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Field4">XXX-00000</field>
+      </fields>
+      <libsource lib="SparkFun Connector Lib" part="CONN_15" description="Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections  &lt;b&gt;On any of the 0.1 inch spaced packages, you can populate with these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/116&quot;&gt; Break Away Headers - Straight&lt;/a&gt; (PRT-00116)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/553&quot;&gt; Break Away Male Headers - Right Angle&lt;/a&gt; (PRT-00553)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/115&quot;&gt; Female Headers&lt;/a&gt; (PRT-00115)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/117&quot;&gt; Break Away Headers - Machine Pin&lt;/a&gt; (PRT-00117)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/743&quot;&gt; Break Away Female Headers - Swiss Machine Pin&lt;/a&gt; (PRT-00743)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt; For SCREWTERMINALS and SPRING TERMINALS visit here:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/search/results?term=Screw+Terminals&quot;&gt; Screw Terimnals on SparkFun.com&lt;/a&gt; (5mm/3.5mm/2.54mm spacing)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/11375&quot;&gt; Hook-Up Wire - Assortment (Stranded, 22 AWG)&lt;/a&gt; (PRT-11375)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/11367&quot;&gt; Hook-Up Wire - Assortment (Solid Core, 22 AWG)&lt;/a&gt; (PRT-11367)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/categories/141&quot;&gt; View the entire wire category on our website here&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;b&gt;Special notes:&lt;/b&gt;   Molex polarized connector foot print use with SKU : PRT-08231 with associated crimp pins and housings. 1MM SMD Version SKU: PRT-10208 NOTES ON THE VARIANTS LOCK and LOCK_LONGPADS...This footprint was designed to help hold the alignment of a through-hole component (i.e.  6-pin header) while soldering it into place. You may notice that each hole has been shifted either up or down by 0.005 of an inch from it's more standard position (which is a perfectly straight line).  This slight alteration caused the pins (the squares in the middle) to touch the edges of the holes.  Because they are alternating, it causes a &quot;brace&quot; to hold the component in place.  0.005 has proven to be the perfect amount of &quot;off-center&quot; position when using our standard breakaway headers. Although looks a little odd when you look at the bare footprint, once you have a header in there, the alteration is very hard to notice.  Also,if you push a header all the way into place, it is covered up entirely on the bottom side."/>
+      <property name="Field4" value="XXX-00000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2154f55-1e77-4427-a2c0-84b58c198088</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>CONN_15</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Field4">XXX-00000</field>
+      </fields>
+      <libsource lib="SparkFun Connector Lib" part="CONN_15" description="Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections  &lt;b&gt;On any of the 0.1 inch spaced packages, you can populate with these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/116&quot;&gt; Break Away Headers - Straight&lt;/a&gt; (PRT-00116)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/553&quot;&gt; Break Away Male Headers - Right Angle&lt;/a&gt; (PRT-00553)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/115&quot;&gt; Female Headers&lt;/a&gt; (PRT-00115)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/117&quot;&gt; Break Away Headers - Machine Pin&lt;/a&gt; (PRT-00117)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/743&quot;&gt; Break Away Female Headers - Swiss Machine Pin&lt;/a&gt; (PRT-00743)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt; For SCREWTERMINALS and SPRING TERMINALS visit here:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/search/results?term=Screw+Terminals&quot;&gt; Screw Terimnals on SparkFun.com&lt;/a&gt; (5mm/3.5mm/2.54mm spacing)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/11375&quot;&gt; Hook-Up Wire - Assortment (Stranded, 22 AWG)&lt;/a&gt; (PRT-11375)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/11367&quot;&gt; Hook-Up Wire - Assortment (Solid Core, 22 AWG)&lt;/a&gt; (PRT-11367)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/categories/141&quot;&gt; View the entire wire category on our website here&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;b&gt;Special notes:&lt;/b&gt;   Molex polarized connector foot print use with SKU : PRT-08231 with associated crimp pins and housings. 1MM SMD Version SKU: PRT-10208 NOTES ON THE VARIANTS LOCK and LOCK_LONGPADS...This footprint was designed to help hold the alignment of a through-hole component (i.e.  6-pin header) while soldering it into place. You may notice that each hole has been shifted either up or down by 0.005 of an inch from it's more standard position (which is a perfectly straight line).  This slight alteration caused the pins (the squares in the middle) to touch the edges of the holes.  Because they are alternating, it causes a &quot;brace&quot; to hold the component in place.  0.005 has proven to be the perfect amount of &quot;off-center&quot; position when using our standard breakaway headers. Although looks a little odd when you look at the bare footprint, once you have a header in there, the alteration is very hard to notice.  Also,if you push a header all the way into place, it is covered up entirely on the bottom side."/>
+      <property name="Field4" value="XXX-00000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acb26832-3f92-4256-b878-614759e69fc0</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>CONN_03X22X3_SILK_MALE_PTH</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Field4">CONN-09701</field>
+      </fields>
+      <libsource lib="SparkFun Connector Lib" part="CONN_03X22X3_SILK_MALE_PTH" description="Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections   &lt;b&gt;You can populate with any combo of single row headers, but if you'd like an exact match, check these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/12807&quot;&gt; Header - 2x3 (Male, 0.1&quot;)&lt;/a&gt; (PRT-12807)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/13010&quot;&gt; Header - 2x3 (Female, 0.1&quot;)&lt;/a&gt; (PRT-13010)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/10877&quot;&gt; 2x3 Pin Shrouded Header&lt;/a&gt; (PRT-10877)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;On any of the 0.1 inch spaced packages, you can populate with these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/116&quot;&gt; Break Away Headers - Straight&lt;/a&gt; (PRT-00116)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/553&quot;&gt; Break Away Male Headers - Right Angle&lt;/a&gt; (PRT-00553)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/115&quot;&gt; Female Headers&lt;/a&gt; (PRT-00115)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/117&quot;&gt; Break Away Headers - Machine Pin&lt;/a&gt; (PRT-00117)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/743&quot;&gt; Break Away Female Headers - Swiss Machine Pin&lt;/a&gt; (PRT-00743)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;Special note: the shrouded connector mates well with our 3x2 ribbon cables:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/10651&quot;&gt; Ribbon Crimp Connector - 6-pin (2x3, Female)&lt;/a&gt; (PRT-10651)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/10646&quot;&gt; Ribbon Cable - 6 wire (15ft)&lt;/a&gt; (PRT-10646)&lt;/li&gt;&lt;/ul&gt;"/>
+      <property name="Field4" value="CONN-09701"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66ef7ea0-fb3c-4180-9118-36e6b22e77ec</tstamps>
+    </comp>
+    <comp ref="LEDBUILTIN1">
+      <value>LED-0603</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfe0c3e3-f757-496b-8883-692d7c45ccbb</tstamps>
+    </comp>
+    <comp ref="LEDPWR1">
+      <value>GREEN LED-0603</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8f72845-ffd3-4702-afd6-6f1eace91776</tstamps>
+    </comp>
+    <comp ref="LEDRX1">
+      <value>Red LED-0603</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>827c1778-6bbe-4a30-8a8d-ed4f19e19bf3</tstamps>
+    </comp>
+    <comp ref="LEDTX1">
+      <value>Green LED-0603</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c966b93c-08bb-4e0d-a67e-5a96682b0ef1</tstamps>
+    </comp>
+    <comp ref="RP1">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_Array_Convex_4x0603</footprint>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bd5a348-559a-46ac-abc8-cd3d5dbe8b0f</tstamps>
+    </comp>
+    <comp ref="RP2">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_Array_Convex_4x0603</footprint>
+      <libsource lib="Device" part="R_Pack04" description="4 resistor network, parallel topology"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9909738d-966a-4d2e-9eb6-4af5411d20ae</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>SW</value>
+      <footprint>SKRK</footprint>
+      <fields>
+        <field name="Description">Tactile Switches 3.9x2.9x2.0mm 160gf Packaging Temp 60oC</field>
+        <field name="Field4">SWCH-13065</field>
+        <field name="Height">mm</field>
+        <field name="Manufacturer_Name">ALPS</field>
+        <field name="Manufacturer_Part_Number">SKRKAEE010</field>
+        <field name="Supplier_Name">RS</field>
+      </fields>
+      <libsource lib="SKRK" part="SKRKAEE010" description=""/>
+      <property name="Field4" value="SWCH-13065"/>
+      <property name="3D_Package" value=""/>
+      <property name="Description" value="Tactile Switches 3.9x2.9x2.0mm 160gf Packaging Temp 60oC"/>
+      <property name="Allied_Number" value=""/>
+      <property name="RS_Part_Number" value=""/>
+      <property name="Manufacturer_Name" value="ALPS"/>
+      <property name="Height" value="mm"/>
+      <property name="Supplier_Name" value="RS"/>
+      <property name="Other_Part_Number" value=""/>
+      <property name="Manufacturer_Part_Number" value="SKRKAEE010"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5d02d88-e398-4e0f-9114-4a88485b2f0a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ATMEGA328PB-AU</value>
+      <footprint>ATMEGA328PB-AU:QFP80P900X900X120-32N</footprint>
+      <datasheet>http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589666</datasheet>
+      <fields>
+        <field name="Category">Integrated Circuits (ICs)</field>
+        <field name="DK_Datasheet_Link">http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589666</field>
+        <field name="DK_Detail_Page">/product-detail/en/microchip-technology/ATMEGA328PB-AU/ATMEGA328PB-AU-ND/5638812</field>
+        <field name="Description">IC MCU 8BIT 32KB FLASH 32TQFP</field>
+        <field name="Digi-Key_PN">ATMEGA328PB-AU-ND</field>
+        <field name="Family">Embedded - Microcontrollers</field>
+        <field name="MANUFACTURER">Atmel</field>
+        <field name="MPN">ATMEGA328PB-AU</field>
+        <field name="Manufacturer">Microchip Technology</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="atmega328p au" part="ATMEGA328P-AU" description=""/>
+      <property name="Digi-Key_PN" value="ATMEGA328PB-AU-ND"/>
+      <property name="MPN" value="ATMEGA328PB-AU"/>
+      <property name="Category" value="Integrated Circuits (ICs)"/>
+      <property name="Family" value="Embedded - Microcontrollers"/>
+      <property name="DK_Datasheet_Link" value="http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en589666"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/microchip-technology/ATMEGA328PB-AU/ATMEGA328PB-AU-ND/5638812"/>
+      <property name="Description" value="IC MCU 8BIT 32KB FLASH 32TQFP"/>
+      <property name="Manufacturer" value="Microchip Technology"/>
+      <property name="Status" value="Active"/>
+      <property name="MANUFACTURER" value="Atmel"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47872dd1-a210-4e53-928c-7c2739a00a28</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>FT232RL</value>
+      <footprint>Package_SO:SSOP-28_5.3x10.2mm_P0.65mm</footprint>
+      <datasheet>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf</datasheet>
+      <libsource lib="Interface_USB" part="FT232RL" description="USB to Serial Interface, SSOP-28"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7de2245-da0b-4da6-8fe6-c49c1d51751d</tstamps>
+    </comp>
+    <comp ref="USB2">
+      <value>USB_B_Mini</value>
+      <footprint>67503-1020:67503-1020</footprint>
+      <libsource lib="Connector" part="USB_B_Mini" description="USB Mini Type B connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8517a75d-f0ca-4980-a84d-6ba7d8963e43</tstamps>
+    </comp>
+    <comp ref="VRU1">
+      <value>LM1117IMPX-5.0</value>
+      <footprint>LM1117IMPX:SOT230P700X180-4N</footprint>
+      <fields>
+        <field name="MANUFACTURER">Rochester Electronics/Texas Instruments</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.80 mm</field>
+        <field name="PARTREV">O</field>
+        <field name="STANDARD">IPC 7351B</field>
+      </fields>
+      <libsource lib="LM1117IMPX-5.0" part="LM1117IMPX-5.0" description=""/>
+      <property name="PARTREV" value="O"/>
+      <property name="STANDARD" value="IPC 7351B"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.80 mm"/>
+      <property name="MANUFACTURER" value="Rochester Electronics/Texas Instruments"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d8e0de0-2b61-4238-9aa0-739c02a90dff</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>CSTCE16M0V53Z-R0</value>
+      <footprint>CSTCE16M0V53Z-R0:OSC_CSTCE16M0V53Z-R0</footprint>
+      <fields>
+        <field name="MANUFACTURER">Murata</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.00mm</field>
+        <field name="PARTREV">May 7, 2019</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="CSTCE16M0V53Z-R0" part="CSTCE16M0V53Z-R0" description=""/>
+      <property name="PARTREV" value="May 7, 2019"/>
+      <property name="MANUFACTURER" value="Murata"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="1.00mm"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Arduino Nano Diffrential impdance.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb99b12b-5d0a-4262-b30d-078a8e4f8fbe</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="CSTCE16M0V53Z-R0" part="CSTCE16M0V53Z-R0">
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">CSTCE16M0V53Z-R0</field>
+        <field name="Footprint">OSC_CSTCE16M0V53Z-R0</field>
+        <field name="PARTREV">May 7, 2019</field>
+        <field name="MANUFACTURER">Murata</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.00mm</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="power_in"/>
+        <pin num="3" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Mini">
+      <description>USB Mini Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">USB2</field>
+        <field name="Value">USB_B_Mini</field>
+        <field name="Footprint">67503-1020:67503-1020</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+        <pin num="8" name="CH" type="passive"/>
+        <pin num="9" name="CH" type="passive"/>
+        <pin num="10" name="CH" type="passive"/>
+        <pin num="11" name="CH" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Pack04">
+      <description>4 resistor network, parallel topology</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>DIP*</fp>
+        <fp>SOIC*</fp>
+        <fp>R*Array*Concave*</fp>
+        <fp>R*Array*Convex*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">R_Pack04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="R1.1" type="passive"/>
+        <pin num="2" name="R2.1" type="passive"/>
+        <pin num="3" name="R3.1" type="passive"/>
+        <pin num="4" name="R4.1" type="passive"/>
+        <pin num="5" name="R4.2" type="passive"/>
+        <pin num="6" name="R3.2" type="passive"/>
+        <pin num="7" name="R2.2" type="passive"/>
+        <pin num="8" name="R1.2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_USB" part="FT232RL">
+      <description>USB to Serial Interface, SSOP-28</description>
+      <docs>https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf</docs>
+      <footprints>
+        <fp>SSOP*5.3x10.2mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FT232RL</field>
+        <field name="Footprint">Package_SO:SSOP-28_5.3x10.2mm_P0.65mm</field>
+        <field name="Datasheet">https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="output"/>
+        <pin num="2" name="DTR" type="output"/>
+        <pin num="3" name="RTS" type="output"/>
+        <pin num="4" name="VCCIO" type="power_in"/>
+        <pin num="5" name="RXD" type="input"/>
+        <pin num="6" name="RI" type="input"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="9" name="DCR" type="input"/>
+        <pin num="10" name="DCD" type="input"/>
+        <pin num="11" name="CTS" type="input"/>
+        <pin num="12" name="CBUS4" type="bidirectional"/>
+        <pin num="13" name="CBUS2" type="bidirectional"/>
+        <pin num="14" name="CBUS3" type="bidirectional"/>
+        <pin num="15" name="USBD+" type="bidirectional"/>
+        <pin num="16" name="USBD-" type="bidirectional"/>
+        <pin num="17" name="3V3OUT" type="power_out"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="~{RESET}" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+        <pin num="21" name="GND" type="power_in"/>
+        <pin num="22" name="CBUS1" type="bidirectional"/>
+        <pin num="23" name="CBUS0" type="bidirectional"/>
+        <pin num="25" name="AGND" type="power_in"/>
+        <pin num="26" name="TEST" type="input"/>
+        <pin num="27" name="OSCI" type="input"/>
+        <pin num="28" name="OSCO" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="LM1117IMPX-5.0" part="LM1117IMPX-5.0">
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">LM1117IMPX-5.0</field>
+        <field name="Footprint">SOT230P700X180-4N</field>
+        <field name="PARTREV">O</field>
+        <field name="STANDARD">IPC 7351B</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">1.80 mm</field>
+        <field name="MANUFACTURER">Rochester Electronics/Texas Instruments</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADJ/GND" type="input"/>
+        <pin num="2" name="VOUT" type="output"/>
+        <pin num="3" name="VIN" type="input"/>
+        <pin num="4" name="VOUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="SKRK" part="SKRKAEE010">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">SKRKAEE010</field>
+        <field name="Footprint">SKRK</field>
+        <field name="Description">Tactile Switches 3.9x2.9x2.0mm 160gf Packaging Temp 60oC</field>
+        <field name="Manufacturer_Name">ALPS</field>
+        <field name="Height">mm</field>
+        <field name="Supplier_Name">RS</field>
+        <field name="Manufacturer_Part_Number">SKRKAEE010</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SparkFun Connector Lib" part="CONN_03X22X3_SILK_MALE_PTH">
+      <description>Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections   &lt;b&gt;You can populate with any combo of single row headers, but if you'd like an exact match, check these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/12807"&gt; Header - 2x3 (Male, 0.1")&lt;/a&gt; (PRT-12807)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/13010"&gt; Header - 2x3 (Female, 0.1")&lt;/a&gt; (PRT-13010)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10877"&gt; 2x3 Pin Shrouded Header&lt;/a&gt; (PRT-10877)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;On any of the 0.1 inch spaced packages, you can populate with these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/116"&gt; Break Away Headers - Straight&lt;/a&gt; (PRT-00116)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/553"&gt; Break Away Male Headers - Right Angle&lt;/a&gt; (PRT-00553)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/115"&gt; Female Headers&lt;/a&gt; (PRT-00115)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/117"&gt; Break Away Headers - Machine Pin&lt;/a&gt; (PRT-00117)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/743"&gt; Break Away Female Headers - Swiss Machine Pin&lt;/a&gt; (PRT-00743)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;Special note: the shrouded connector mates well with our 3x2 ribbon cables:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10651"&gt; Ribbon Crimp Connector - 6-pin (2x3, Female)&lt;/a&gt; (PRT-10651)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10646"&gt; Ribbon Cable - 6 wire (15ft)&lt;/a&gt; (PRT-10646)&lt;/li&gt;&lt;/ul&gt;</description>
+      <footprints>
+        <fp>*2X3*</fp>
+        <fp>*2X3*</fp>
+        <fp>*2X3_SMD*</fp>
+        <fp>*2X3-NS*</fp>
+        <fp>*2X3-SHROUDED*</fp>
+        <fp>*2X3_SMT_POSTS*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H3</field>
+        <field name="Value">CONN_03X22X3_SILK_MALE_PTH</field>
+        <field name="Footprint">2X3</field>
+        <field name="Field4">CONN-09701</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SparkFun Connector Lib" part="CONN_15">
+      <description>Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections  &lt;b&gt;On any of the 0.1 inch spaced packages, you can populate with these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/116"&gt; Break Away Headers - Straight&lt;/a&gt; (PRT-00116)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/553"&gt; Break Away Male Headers - Right Angle&lt;/a&gt; (PRT-00553)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/115"&gt; Female Headers&lt;/a&gt; (PRT-00115)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/117"&gt; Break Away Headers - Machine Pin&lt;/a&gt; (PRT-00117)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/743"&gt; Break Away Female Headers - Swiss Machine Pin&lt;/a&gt; (PRT-00743)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt; For SCREWTERMINALS and SPRING TERMINALS visit here:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/search/results?term=Screw+Terminals"&gt; Screw Terimnals on SparkFun.com&lt;/a&gt; (5mm/3.5mm/2.54mm spacing)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/11375"&gt; Hook-Up Wire - Assortment (Stranded, 22 AWG)&lt;/a&gt; (PRT-11375)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/11367"&gt; Hook-Up Wire - Assortment (Solid Core, 22 AWG)&lt;/a&gt; (PRT-11367)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/categories/141"&gt; View the entire wire category on our website here&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;b&gt;Special notes:&lt;/b&gt;   Molex polarized connector foot print use with SKU : PRT-08231 with associated crimp pins and housings. 1MM SMD Version SKU: PRT-10208 NOTES ON THE VARIANTS LOCK and LOCK_LONGPADS...This footprint was designed to help hold the alignment of a through-hole component (i.e.  6-pin header) while soldering it into place. You may notice that each hole has been shifted either up or down by 0.005 of an inch from it's more standard position (which is a perfectly straight line).  This slight alteration caused the pins (the squares in the middle) to touch the edges of the holes.  Because they are alternating, it causes a "brace" to hold the component in place.  0.005 has proven to be the perfect amount of "off-center" position when using our standard breakaway headers. Although looks a little odd when you look at the bare footprint, once you have a header in there, the alteration is very hard to notice.  Also,if you push a header all the way into place, it is covered up entirely on the bottom side.</description>
+      <footprints>
+        <fp>*1X15*</fp>
+        <fp>*1X15_LOCK*</fp>
+        <fp>*1X15_LOCK_LONGPADS*</fp>
+        <fp>*1X15_LOCK_NO_SILK*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_15</field>
+        <field name="Footprint">1X15</field>
+        <field name="Field4">XXX-00000</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="atmega328p au" part="ATMEGA328P-AU">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATMEGA328P-AU</field>
+        <field name="Footprint">QFP80P900X900X120-32N</field>
+        <field name="MANUFACTURER">Atmel</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PD3" type="bidirectional"/>
+        <pin num="2" name="PD4" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="VCC" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VCC" type="power_in"/>
+        <pin num="7" name="PB6" type="bidirectional"/>
+        <pin num="8" name="PB7" type="bidirectional"/>
+        <pin num="9" name="PD5" type="bidirectional"/>
+        <pin num="10" name="PD6" type="bidirectional"/>
+        <pin num="11" name="PD7" type="bidirectional"/>
+        <pin num="12" name="PB0" type="bidirectional"/>
+        <pin num="13" name="PB1" type="bidirectional"/>
+        <pin num="14" name="PB2" type="bidirectional"/>
+        <pin num="15" name="PB3" type="bidirectional"/>
+        <pin num="16" name="PB4" type="bidirectional"/>
+        <pin num="17" name="PB5" type="bidirectional"/>
+        <pin num="18" name="AVCC" type="power_in"/>
+        <pin num="19" name="ADC6" type="bidirectional"/>
+        <pin num="20" name="AREF" type="input"/>
+        <pin num="21" name="GND" type="power_in"/>
+        <pin num="22" name="ADC7" type="bidirectional"/>
+        <pin num="23" name="PC0" type="bidirectional"/>
+        <pin num="24" name="PC1" type="bidirectional"/>
+        <pin num="25" name="PC2" type="bidirectional"/>
+        <pin num="26" name="PC3" type="bidirectional"/>
+        <pin num="27" name="PC4" type="bidirectional"/>
+        <pin num="28" name="PC5" type="bidirectional"/>
+        <pin num="29" name="PC6/~{RESET}" type="bidirectional"/>
+        <pin num="30" name="PD0" type="bidirectional"/>
+        <pin num="31" name="PD1" type="bidirectional"/>
+        <pin num="32" name="PD2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="DIODE">
+      <description>Diode symbol for simulation only. Pin order incompatible with official kicad footprints</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">D1</field>
+        <field name="Value">DIODE</field>
+        <field name="Footprint">SS3P3HM3_85A:DIO_SS3P3HM3_85A</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="input"/>
+        <pin num="2" name="K" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="CSTCE16M0V53Z-R0">
+      <uri>/Users/rota/Documents/KiCad/liberaries/CSTCE16M0V53Z-R0/CSTCE16M0V53Z-R0.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_USB">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Interface_USB.kicad_sym</uri>
+    </library>
+    <library logical="LM1117IMPX-5.0">
+      <uri>/Users/rota/Documents/KiCad/liberaries/LM1117IMPX-5.0/LM1117IMPX-5.0.kicad_sym</uri>
+    </library>
+    <library logical="SKRK">
+      <uri>/Users/rota/Documents/KiCad/liberaries/SKRKAEE010/SKRKAEE010.kicad_sym</uri>
+    </library>
+    <library logical="SparkFun Connector Lib">
+      <uri>/Users/rota/Documents/KiCad/liberaries/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Connectors.lib</uri>
+    </library>
+    <library logical="atmega328p au">
+      <uri>/Users/rota/Documents/KiCad/liberaries/ATMEGA328P-AU/ATMEGA328P-AU.kicad_sym</uri>
+    </library>
+    <library logical="pspice">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//pspice.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="H2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U5" pin="17" pinfunction="3V3OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="A" pintype="input"/>
+      <node ref="H2" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="H3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RP1" pin="7" pinfunction="R2.2" pintype="passive"/>
+      <node ref="RP1" pin="8" pinfunction="R1.2" pintype="passive"/>
+      <node ref="RP2" pin="5" pinfunction="R4.2" pintype="passive"/>
+      <node ref="RP2" pin="7" pinfunction="R2.2" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="20" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="VCCIO" pintype="power_in"/>
+      <node ref="VRU1" pin="2" pinfunction="VOUT" pintype="output"/>
+      <node ref="VRU1" pin="4" pinfunction="VOUT" pintype="output"/>
+    </net>
+    <net code="3" name="A0">
+      <node ref="H2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U2" pin="23" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="A1">
+      <node ref="H2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U2" pin="24" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="A2">
+      <node ref="H2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U2" pin="25" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="A3">
+      <node ref="H2" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U2" pin="26" pinfunction="PC3" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="A4">
+      <node ref="H2" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U2" pin="27" pinfunction="PC4" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="A5">
+      <node ref="H2" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U2" pin="28" pinfunction="PC5" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="A6">
+      <node ref="H2" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="ADC6" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="A7">
+      <node ref="H2" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="ADC7" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="AREF">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="H2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U2" pin="20" pinfunction="AREF" pintype="input"/>
+    </net>
+    <net code="12" name="D+">
+      <node ref="U5" pin="15" pinfunction="USBD+" pintype="bidirectional"/>
+      <node ref="USB2" pin="3" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="D-">
+      <node ref="U5" pin="16" pinfunction="USBD-" pintype="bidirectional"/>
+      <node ref="USB2" pin="2" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="D0{slash}RX">
+      <node ref="H1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RP1" pin="5" pinfunction="R4.2" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="TXD" pintype="output"/>
+    </net>
+    <net code="15" name="D1{slash}TX">
+      <node ref="H1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RP1" pin="6" pinfunction="R3.2" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="RXD" pintype="input"/>
+    </net>
+    <net code="16" name="D2">
+      <node ref="H1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U2" pin="32" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="D3">
+      <node ref="H1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="D4">
+      <node ref="H1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="D5">
+      <node ref="H1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="D6">
+      <node ref="H1" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="D7">
+      <node ref="H1" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="D8">
+      <node ref="H1" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="D9">
+      <node ref="H1" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="D10">
+      <node ref="H1" pin="13" pinfunction="13" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="D11{slash}MOSI">
+      <node ref="H1" pin="14" pinfunction="14" pintype="passive"/>
+      <node ref="H3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="D12{slash}MISO">
+      <node ref="H1" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="D13{slash}SCK">
+      <node ref="H2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="H3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="RP2" pin="1" pinfunction="R1.1" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="H1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="H2" pin="14" pinfunction="14" pintype="passive"/>
+      <node ref="H3" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="LEDBUILTIN1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LEDPWR1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RP2" pin="3" pinfunction="R3.1" pintype="passive"/>
+      <node ref="RP2" pin="6" pinfunction="R3.2" pintype="passive"/>
+      <node ref="S2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="21" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="21" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="25" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U5" pin="26" pinfunction="TEST" pintype="input"/>
+      <node ref="U5" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="USB2" pin="10" pinfunction="CH" pintype="passive"/>
+      <node ref="USB2" pin="11" pinfunction="CH" pintype="passive"/>
+      <node ref="USB2" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="USB2" pin="6" pinfunction="Shield" pintype="passive"/>
+      <node ref="USB2" pin="8" pinfunction="CH" pintype="passive"/>
+      <node ref="USB2" pin="9" pinfunction="CH" pintype="passive"/>
+      <node ref="VRU1" pin="1" pinfunction="ADJ/GND" pintype="input"/>
+      <node ref="X1" pin="2" pintype="power_in"/>
+    </net>
+    <net code="29" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="DTR" pintype="output"/>
+    </net>
+    <net code="30" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="USB2" pin="1" pinfunction="VBUS" pintype="power_out"/>
+    </net>
+    <net code="31" name="Net-(LEDRX1-Pad1)">
+      <node ref="LEDRX1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U5" pin="23" pinfunction="CBUS0" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="Net-(LEDRX1-Pad2)">
+      <node ref="LEDRX1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RP2" pin="2" pinfunction="R2.1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(LEDTX1-Pad1)">
+      <node ref="LEDTX1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U5" pin="22" pinfunction="CBUS1" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="Net-(LEDTX1-Pad2)">
+      <node ref="LEDTX1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RP2" pin="4" pinfunction="R4.1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="PB6" pintype="bidirectional"/>
+      <node ref="X1" pin="1" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(U2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="PB7" pintype="bidirectional"/>
+      <node ref="X1" pin="3" pintype="output"/>
+    </net>
+    <net code="37" name="RP1A1">
+      <node ref="RP1" pin="4" pinfunction="R4.1" pintype="passive"/>
+      <node ref="U2" pin="30" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="RP1B1">
+      <node ref="RP1" pin="3" pinfunction="R3.1" pintype="passive"/>
+      <node ref="U2" pin="31" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="RP1C2">
+      <node ref="LEDPWR1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RP1" pin="2" pinfunction="R2.1" pintype="passive"/>
+    </net>
+    <net code="40" name="RP2A2">
+      <node ref="LEDBUILTIN1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="RP2" pin="8" pinfunction="R1.2" pintype="passive"/>
+    </net>
+    <net code="41" name="RST">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="H1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="H2" pin="13" pinfunction="13" pintype="passive"/>
+      <node ref="H3" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="RP1" pin="1" pinfunction="R1.1" pintype="passive"/>
+      <node ref="S2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="29" pinfunction="PC6/~{RESET}" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="VBUS">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="K" pintype="input"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="VCC">
+      <node ref="H2" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="VRU1" pin="3" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="44" name="unconnected-(U5-Pad3)">
+      <node ref="U5" pin="3" pinfunction="RTS" pintype="output+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U5-Pad6)">
+      <node ref="U5" pin="6" pinfunction="RI" pintype="input+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U5-Pad9)">
+      <node ref="U5" pin="9" pinfunction="DCR" pintype="input+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U5-Pad10)">
+      <node ref="U5" pin="10" pinfunction="DCD" pintype="input+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U5-Pad11)">
+      <node ref="U5" pin="11" pinfunction="CTS" pintype="input+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U5-Pad12)">
+      <node ref="U5" pin="12" pinfunction="CBUS4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U5-Pad13)">
+      <node ref="U5" pin="13" pinfunction="CBUS2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U5-Pad14)">
+      <node ref="U5" pin="14" pinfunction="CBUS3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U5-Pad19)">
+      <node ref="U5" pin="19" pinfunction="~{RESET}" pintype="input+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U5-Pad27)">
+      <node ref="U5" pin="27" pinfunction="OSCI" pintype="input+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U5-Pad28)">
+      <node ref="U5" pin="28" pinfunction="OSCO" pintype="output+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(USB2-Pad4)">
+      <node ref="USB2" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
